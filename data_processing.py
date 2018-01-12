@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 11 12:45:44 2018
-
-@author: marni
-"""
 
 # Import the JSON and CSV packages
 import json
